@@ -338,7 +338,7 @@ body {
     .header__burger-menu {
         width: 40px;
         height: 40px;
-        background: url(./img/icons/menu.png) no-repeat;
+        background: url(./img/icon/menu.png) no-repeat;
         background-size: 35px 23px;
     }
 
